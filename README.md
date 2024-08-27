@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Every minute, we create roughly 1.7 megabytes of data per person on the planet! That’s a lot of data being generated constantly. 🌍💾
 
 
-![image](https://github.com/user-attachments/assets/57978fa1-670d-42cc-ae83-9bc6a3acaa8d)
+                                                                                                                    ![image](https://github.com/user-attachments/assets/57978fa1-670d-42cc-ae83-9bc6a3acaa8d)
