@@ -40,7 +40,5 @@ Every minute, we create roughly **1.7 megabytes of data per person on the planet
 
 ---
 
-Feel free to adapt or modify this content based on your preferences and the specific message you want to convey about your skills and experience.
 
 
- ![image](https://github.com/user-attachments/assets/57978fa1-670d-42cc-ae83-9bc6a3acaa8d)
