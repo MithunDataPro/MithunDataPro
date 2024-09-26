@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mithun Dama
 
-**Data Engineer & Data Analyst** | Azure Certified Data Engineer with 4+ years of experience in designing and developing large-scale data platforms.
+**Data Engineer & Data Analyst** | Azure Certified Data Engineer with experience in designing and developing large-scale data platforms.
 
 - 🎓 **Graduated** from Pace University with a Master's in Data Science.
 - 💼 **Proficient** in: Python, SQL, Azure, Spark, Databricks, Power BI.
