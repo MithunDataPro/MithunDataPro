@@ -2,7 +2,7 @@
 
 **Lead Data Engineer & Data Analyst** | Azure Certified Data Engineer with 12+ years of experience in designing and leading large-scale data platforms across healthcare, financial services, supply chain, and P&C insurance sectors.
 
-- 🎓 **Graduated** from JNTUA in Computer Science.
+- 🎓 **Graduated** from JNTUA.
 - 💼 **Proficient** in: Python, SQL, Azure, AWS, GCP, Spark, Databricks, Power BI, and SAS.
 - 🔍 **Specialized** in: Batch and Streaming Data Processing, ETL/ELT processes, Data Visualization, Advanced Analytics, and Cloud-Native Architectures.
 - 🌱 Currently **leading** teams on data-driven initiatives and continuously **learning** new technologies in Big Data, cloud platforms, and MLOps frameworks.
