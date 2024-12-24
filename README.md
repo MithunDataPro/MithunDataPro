@@ -1,64 +1,61 @@
 # 👋 Hi, I'm Mithun Dama
 
-**Lead Data Engineer & Data Analyst** | Azure Certified Data Engineer with 12+ years of experience in designing and leading large-scale data platforms across healthcare, financial services, supply chain, and P&C insurance sectors.
+**Certified Data Engineer** | AWS, Azure, and Databricks Expert with 4+ years of experience designing and optimizing scalable data pipelines and cloud-based architectures for complex data environments.
 
-- 🎓 **Graduated** from JNTUA.
-- 💼 **Proficient** in: Python, SQL, Azure, AWS, GCP, Spark, Databricks, Power BI, and SAS.
-- 🔍 **Specialized** in: Batch and Streaming Data Processing, ETL/ELT processes, Data Visualization, Advanced Analytics, and Cloud-Native Architectures.
-- 🌱 Currently **leading** teams on data-driven initiatives and continuously **learning** new technologies in Big Data, cloud platforms, and MLOps frameworks.
+---
+
+### 🌟 About Me:
+- 🎓 **Education**:  
+  - Master of Data Science, Pace University, NY *(2022 - 2024)*  
+  - Bachelor of Engineering, Kuppam Engineering College, India *(2014 - 2018)*  
+- 🔧 **Skills**: Python, Scala, SQL, Spark, Databricks, Airflow, Power BI, Tableau, Snowflake, AWS, Azure  
+- 📜 **Certifications**:  
+  - [Databricks Certified Data Engineer Professional](https://drive.google.com/file/d/181qGOTm1bXqU9ilG8dfSXKJ5AjwbEy19/view?usp=drive_link)  
+  - [Microsoft Certified: Azure Data Engineer Associate](https://drive.google.com/file/d/1RbMCr0UF-GRUddW5_cA_NOgHwD_U3y8P/view?usp=drive_link)  
+  - [AWS Certified Data Engineer - Associate](https://drive.google.com/file/d/1_RIcopnrJWytVS_tJaDcbUk5s8V7MejL/view?usp=drive_link)  
+
+---
 
 ### 🚀 What I Do:
-- 📊 Build and optimize **scalable data pipelines** and **ETL processes** using **Azure Data Factory**, **Databricks**, and **AWS Glue**.
-- 🏢 Design data lakes, warehouses, and lakehouses using **Azure Synapse Analytics**, **Delta Lake**, and **Google Cloud BigQuery**.
-- 🔍 Implement real-time data streaming solutions using **Azure Databricks**, **AWS Kinesis**, and **Google Cloud Pub/Sub**.
-- 💡 Generate actionable insights through **data visualization** tools like **Power BI** and **Tableau**.
-- 📈 Leverage **Big Data technologies** such as **HDFS**, **Hive**, **Kafka**, **Spark Streaming**, and **Google Cloud Dataflow** to enhance analytics and reporting capabilities.
+- Build **scalable data pipelines** and optimize **ETL/ELT workflows** using tools like Databricks, Snowflake, and Airflow.
+- Design cloud-native architectures across **AWS**, **Azure**, and **Databricks**, ensuring performance and scalability.
+- Leverage **Big Data technologies** like Apache Spark, Hadoop, and Kafka to process large-scale datasets.
+- Create impactful **data visualizations** with Power BI and Tableau to drive data-driven decision-making.
+- Automate deployment processes using **CI/CD pipelines** (GitHub Actions, Jenkins, Docker, Terraform).
 
-### 🌍 Expertise Across Industries:
-- **Healthcare**: Built advanced data pipelines for real-time patient care analytics and predictive modeling.
-- **Financial Services**: Led teams in developing scalable ETL infrastructure for real-time financial reporting using **Azure Synapse** and **Power BI**.
-- **Supply Chain**: Optimized data lakes for operational reporting, improving supply chain visibility and forecasting.
-- **P&C Insurance**: Developed data architectures and pipelines to automate claims processing and predictive modeling.
+---
 
-### 📜 Certifications:
-- **Microsoft Certified: Azure Data Engineer Associate**
-- **Databricks Certified: Data Engineer Professional**
-- **AWS Certified Solutions Architect - Associate**
-- **Google Cloud Certified: Professional Data Engineer**
-- **Certified SAS Data Engineer**
+### 💼 Work Experience:
+- **Business Development Associate** | Yocket, India *(Jul 2021 - Aug 2022)*  
+  - Automated pipelines using Airflow and integrated data into Snowflake, improving data reliability by 30%.  
+  - Enhanced reporting efficiency by 25% through advanced SQL and Power BI dashboards.  
 
-### 🌟 Recent Projects:
-1. **Real-Time Streaming with Azure Databricks and Event Hubs**  
-   Designed and implemented an end-to-end real-time data streaming solution using **Azure Event Hubs**, **Databricks** with **Spark Structured Streaming**, and **Delta Lake**.  
-   [GitHub Repository](https://github.com/MithunDataPro/Real-Time-Streaming-with-Azure-Databricks-and-Event-Hubs.git)
+- **Data Engineer** | Scon Design India Pvt Ltd, India *(Aug 2018 - Jul 2021)*  
+  - Developed a construction project monitoring system using AWS Glue and Hadoop, improving tracking by 40%.  
+  - Designed scalable data architectures using Cassandra and containerized deployments with Docker and Terraform.
 
-2. **Financial Data Platform for Real-Time Analytics**  
-   Built a scalable data platform and ETL pipelines using **Azure Synapse Analytics**, **AWS Glue**, and **Power BI** to enable real-time financial analytics and reporting.
+---
 
-3. **Healthcare Data Integration for Predictive Analytics**  
-   Led a team to develop a data integration solution using **Azure Data Factory**, **Google Cloud BigQuery**, and **Databricks**, improving patient care through predictive insights.
+### 🌍 Expertise Across Tools and Platforms:
+- **Programming**: Python, Scala, SQL  
+- **Cloud Services**: Azure, AWS, Databricks  
+- **Big Data**: Apache Spark, Hadoop, Kafka  
+- **Data Warehousing**: Snowflake, Cassandra  
+- **Data Visualization**: Power BI, Tableau  
+- **DevOps**: Docker, Terraform, GitHub Actions  
 
-### 📈 Technical Skills:
-- **Programming Languages**: Python, SQL, Spark, R
-- **Data Tools**: Azure Data Factory, Databricks, Synapse Analytics, Power BI, AWS Glue, GCP BigQuery
-- **Cloud Platforms**: Azure, AWS, Google Cloud, Microsoft Fabric
-- **Big Data Technologies**: HDFS, Hive, Kafka, Spark Streaming, Delta Lake, Google Cloud Dataflow
-- **MLOps Frameworks**: mlFlow, DVC
-- **Data Orchestration**: Airflow, ADF, Jenkins, GitHub Actions
+---
 
-### 🏆 Leadership & Teamwork:
-- Led cross-functional teams in designing and implementing **enterprise-level data platforms** for various industries, ensuring scalability, security, and real-time data processing.
-- Mentored and guided junior engineers to elevate team competencies in cloud and data engineering technologies.
+### 📈 Let's Connect:
+- 📧 Reach me at [mithundama.bd@gmail.com](mailto:mithundama.bd@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mithun-d-a44401275)  
+- 🖥️ [GitHub](https://github.com/MithunDataPro)  
 
-### 🤝 Let's Connect:
-- 📧 Reach me at [mithundama.bd@gmail.com](mailto:mithundama.de@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/mithun-d-a44401275)
-- 🖥️ [GitHub](https://github.com/MithunDataPro)
+---
 
 ### 🧠 Fun Fact:
-The global data volume is expected to grow to **175 zettabytes by 2025**! The future of data is massive, and I'm excited to be a part of it. 🌍💾
+The global data volume is expected to grow to **175 zettabytes by 2025**! I'm passionate about driving insights and efficiency in this ever-growing data universe. 🌍💾
 
-![Data Engineering](https://github.com/user-attachments/assets/57978fa1-670d-42cc-ae83-9bc6a3acaa8d)
 
 
 ---
