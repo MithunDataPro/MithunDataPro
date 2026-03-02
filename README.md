@@ -1,64 +1,104 @@
-# 👋 Hi, I'm Mithun Dama
+# 👋 Hi, I'm Mithun Dama  
 
-**Certified Data Engineer** | AWS, Azure, and Databricks Expert with 4+ years of experience designing and optimizing scalable data pipelines and cloud-based architectures for complex data environments.
-
----
-
-### 🌟 About Me:
-- 🎓 **Education**:  
-  - Master of Data Science, Pace University, NY *(2022 - 2024)*  
-  - Bachelor of Engineering, Kuppam Engineering College, India *(2014 - 2018)*  
-- 🔧 **Skills**: Python, Scala, SQL, Spark, Databricks, Airflow, Power BI, Tableau, Snowflake, AWS, Azure  
-- 📜 **Certifications**:  
-  - [Databricks Certified Data Engineer Professional](https://drive.google.com/file/d/181qGOTm1bXqU9ilG8dfSXKJ5AjwbEy19/view?usp=drive_link)  
-  - [Microsoft Certified: Azure Data Engineer Associate](https://drive.google.com/file/d/1RbMCr0UF-GRUddW5_cA_NOgHwD_U3y8P/view?usp=drive_link)  
-  - [AWS Certified Data Engineer - Associate](https://drive.google.com/file/d/1_RIcopnrJWytVS_tJaDcbUk5s8V7MejL/view?usp=drive_link)  
+**Senior Data Scientist | Machine Learning Engineer | GCP | Production ML Systems**  
+📍 Michigan, USA | Open to Hybrid Roles (Dearborn, Troy, Detroit)
 
 ---
 
-### 🚀 What I Do:
-- Build **scalable data pipelines** and optimize **ETL/ELT workflows** using tools like Databricks, Snowflake, and Airflow.
-- Design cloud-native architectures across **AWS**, **Azure**, and **Databricks**, ensuring performance and scalability.
-- Leverage **Big Data technologies** like Apache Spark, Hadoop, and Kafka to process large-scale datasets.
-- Create impactful **data visualizations** with Power BI and Tableau to drive data-driven decision-making.
-- Automate deployment processes using **CI/CD pipelines** (GitHub Actions, Jenkins, Docker, Terraform).
+## 🚀 About Me
+
+Results-driven Data Scientist and Machine Learning Engineer with 5+ years of experience building production-grade predictive modeling systems across automotive and enterprise domains.
+
+Currently working at General Motors, designing and deploying scalable ML solutions using Python and GCP (BigQuery, Vertex AI) to transform large-scale datasets into business-aligned decision systems.
+
+**Core Focus Areas:**
+- Predictive Modeling & Advanced Statistical Analysis  
+- Gradient Boosting (XGBoost, LightGBM), Random Forests, GLMs  
+- Feature Engineering & Model Optimization  
+- Advanced SQL & Distributed Data Processing  
+- Experimental Design & A/B Testing  
+- MLOps & Production ML Deployment  
 
 ---
 
-### 💼 Work Experience:
-- **Business Development Associate** | Yocket, India *(Jul 2021 - Aug 2022)*  
-  - Automated pipelines using Airflow and integrated data into Snowflake, improving data reliability by 30%.  
-  - Enhanced reporting efficiency by 25% through advanced SQL and Power BI dashboards.  
+## 🧠 Technical Expertise
 
-- **Data Engineer** | Scon Design India Pvt Ltd, India *(Aug 2018 - Jul 2021)*  
-  - Developed a construction project monitoring system using AWS Glue and Hadoop, improving tracking by 40%.  
-  - Designed scalable data architectures using Cassandra and containerized deployments with Docker and Terraform.
+### 🔹 Programming & Analytics
+- Python (Pandas, NumPy, Scikit-learn, SciPy)
+- Advanced SQL (multi-terabyte datasets)
+- PySpark
+- Statistical Modeling & Hypothesis Testing
 
----
+### 🔹 Machine Learning
+- Supervised & Unsupervised Learning
+- Gradient Boosting (XGBoost, LightGBM)
+- Random Forest
+- Logistic Regression & GLMs
+- Clustering & Dimensionality Reduction
+- Cross-Validation & Model Evaluation (MAE, RMSE, ROC-AUC)
+- Bias-Variance Optimization
+- Model Drift Monitoring
 
-### 🌍 Expertise Across Tools and Platforms:
-- **Programming**: Python, Scala, SQL  
-- **Cloud Services**: Azure, AWS, Databricks  
-- **Big Data**: Apache Spark, Hadoop, Kafka  
-- **Data Warehousing**: Snowflake, Cassandra  
-- **Data Visualization**: Power BI, Tableau  
-- **DevOps**: Docker, Terraform, GitHub Actions  
+### 🔹 Cloud & MLOps
+- GCP (BigQuery, Vertex AI)
+- Azure & AWS
+- Docker & Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
+- Terraform
+- ML lifecycle management
 
----
-
-### 📈 Let's Connect:
-- 📧 Reach me at [mithundama.bd@gmail.com](mailto:mithundama.bd@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mithun-d-a44401275)  
-- 🖥️ [GitHub](https://github.com/MithunDataPro)  
-
----
-
-### 🧠 Fun Fact:
-The global data volume is expected to grow to **175 zettabytes by 2025**! I'm passionate about driving insights and efficiency in this ever-growing data universe. 🌍💾
-
-
+### 🔹 Data Platforms
+- PostgreSQL, Snowflake, Cassandra
+- Hadoop Ecosystem
+- Power BI & Tableau
 
 ---
 
+## 💼 Professional Experience
 
+### 🏢 General Motors | AI & ML Engineer  
+*Feb 2025 – Present | Warren, MI*
 
+- Designed and deployed scalable ML systems on GCP to analyze large-scale automotive datasets supporting engineering and compliance decision workflows.
+- Built production-grade predictive pipelines with feature engineering, model benchmarking, and sensitivity analysis.
+- Developed validation frameworks to monitor model performance and business KPI alignment.
+- Operationalized ML systems using Docker, Kubernetes, and CI/CD pipelines.
+- Integrated ML outputs into executive dashboards to drive data-informed decisions.
+
+---
+
+### 🏢 Scon Design India Pvt Ltd | Senior Data Scientist  
+*Aug 2018 – Jul 2021*
+
+- Developed forecasting and predictive models (XGBoost, Random Forest, regression) for demand planning and operational optimization.
+- Processed large-scale IoT and time-series datasets using Spark and Hadoop.
+- Implemented robust model validation using MAE, RMSE, and cross-validation.
+- Architected distributed data systems handling multi-terabyte analytical workloads.
+
+---
+
+## 📜 Certifications
+- Databricks Certified Data Engineer Professional  
+- Microsoft Certified: Azure Data Engineer Associate  
+- AWS Certified Data Engineer – Associate  
+
+---
+
+## 🔬 Areas of Interest
+- Scalable Predictive Modeling
+- Algorithm Optimization
+- Enterprise Experimentation Frameworks
+- Cloud-Native ML Architectures
+- Automotive AI Systems
+
+---
+
+## 📫 Let's Connect
+📧 mithundama.bd@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mithun-d-a44401275  
+🖥️ GitHub: https://github.com/MithunDataPro  
+
+---
+
+## ⚡ Professional Philosophy
+Strong models don’t create impact — production-ready, validated, and monitored systems do.
