@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Mithun Dama  
+# Hi, I'm Mithun Dama  
 
 **Senior Data Scientist | Machine Learning Engineer | GCP | Production ML Systems**  
 📍 Michigan, USA | Open to Hybrid Roles (Dearborn, Troy, Detroit)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Results-driven Data Scientist and Machine Learning Engineer with 5+ years of experience building production-grade predictive modeling systems across automotive and enterprise domains.
 
@@ -21,7 +21,7 @@ Currently working at General Motors, designing and deploying scalable ML solutio
 
 ---
 
-## 🧠 Technical Expertise
+## Technical Expertise
 
 ### 🔹 Programming & Analytics
 - Python (Pandas, NumPy, Scikit-learn, SciPy)
@@ -54,9 +54,9 @@ Currently working at General Motors, designing and deploying scalable ML solutio
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏢 General Motors | AI & ML Engineer  
+###  General Motors | AI & ML Engineer  
 *Feb 2025 – Present | Warren, MI*
 
 - Designed and deployed scalable ML systems on GCP to analyze large-scale automotive datasets supporting engineering and compliance decision workflows.
@@ -67,7 +67,7 @@ Currently working at General Motors, designing and deploying scalable ML solutio
 
 ---
 
-### 🏢 Scon Design India Pvt Ltd | Senior Data Scientist  
+###  Scon Design India Pvt Ltd | Senior Data Scientist  
 *Aug 2018 – Jul 2021*
 
 - Developed forecasting and predictive models (XGBoost, Random Forest, regression) for demand planning and operational optimization.
@@ -77,14 +77,14 @@ Currently working at General Motors, designing and deploying scalable ML solutio
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Databricks Certified Data Engineer Professional  
 - Microsoft Certified: Azure Data Engineer Associate  
 - AWS Certified Data Engineer – Associate  
 
 ---
 
-## 🔬 Areas of Interest
+##  Areas of Interest
 - Scalable Predictive Modeling
 - Algorithm Optimization
 - Enterprise Experimentation Frameworks
@@ -93,12 +93,12 @@ Currently working at General Motors, designing and deploying scalable ML solutio
 
 ---
 
-## 📫 Let's Connect
-📧 mithundama.bd@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/mithun-d-a44401275  
+##  Let's Connect
+📧 mithundama.de@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/feed/  
 🖥️ GitHub: https://github.com/MithunDataPro  
 
 ---
 
-## ⚡ Professional Philosophy
+##  Professional Philosophy
 Strong models don’t create impact — production-ready, validated, and monitored systems do.
